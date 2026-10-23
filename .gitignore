@@ -1,0 +1,92 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+*.cover
+*.py,cover
+coverage.xml
+nosetests.xml
+test-results/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data files (regeneratable caches — do not commit large binaries)
+data/*.csv
+data/*.parquet
+data/*.h5
+data/*.hdf5
+data/*.pkl
+data/*.pickle
+data/*.npy
+data/*.npz
+
+# Results / outputs: KEEP experiment deliverables (CSV, PNG, MD)
+# Only exclude binary/pickle interim artifacts
+results/*.pkl
+results/*.npy
+results/*.npz
+results/*.h5
+
+# Logs
+*.log
+logs/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json

@@ -1,0 +1,10 @@
+dataset,maturity,nominal,empirical_coverage,avg_width
+semi-empirical,long,0.8,0.25,0.023040967298699026
+semi-empirical,long,0.9,0.3,0.027720171731103353
+semi-empirical,long,0.95,0.3,0.03096837105474451
+semi-empirical,medium,0.8,0.25,0.023040967298699026
+semi-empirical,medium,0.9,0.3,0.027720171731103353
+semi-empirical,medium,0.95,0.3,0.03096837105474451
+semi-empirical,short,0.8,0.25,0.023040967298699026
+semi-empirical,short,0.9,0.3,0.027720171731103353
+semi-empirical,short,0.95,0.3,0.03096837105474451

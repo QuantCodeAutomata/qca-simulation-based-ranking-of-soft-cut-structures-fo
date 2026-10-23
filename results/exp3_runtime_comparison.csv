@@ -1,0 +1,5 @@
+method,scenario,wall_time_seconds
+ABI,correct,0.1074279390004449
+MCMC,correct,401.4023517450005
+ABI,misspecified,0.12402840799950354
+MCMC,misspecified,140.91771553200033
